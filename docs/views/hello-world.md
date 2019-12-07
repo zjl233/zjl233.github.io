@@ -34,3 +34,16 @@ ___
 ::: warning
 *here be dragons*
 :::
+
+## Code Block
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hello world")
+}
+
+```
