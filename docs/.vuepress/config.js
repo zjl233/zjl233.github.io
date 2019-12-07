@@ -20,6 +20,13 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    vssueConfig: {
+      platform: 'github',
+      owner: 'zjl233',
+      repo: 'zjl233.github.io',
+      clientId: 'b73d3416ca7a1513c9fd',
+      clientSecret: 'bdd36031a3a36d1d4344d2d6f6276a7a68e2497e',
+    },
     "nav": [
       {
         "text": "Home",
